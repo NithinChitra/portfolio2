@@ -1,0 +1,65 @@
+1)))Which statement is true about Java?
+a) Java is a sequence-dependent programming language
+b) Java is a code dependent programming language
+c) Java is a platform-dependent programming language
+d) Java is a platform-independent programming language
+Answer: d
+Explanation: Java is called ‘Platform Independent Language’ as it primarily works on the principle of ‘compile once, run everywhere’.
+
+2))) Which one of the following is not a Java feature?
+a) Object-oriented
+b) Use of pointers
+c) Portable
+d) Dynamic and Extensible
+Answer: b
+Explanation: Pointers is not a Java feature. Java provides an efficient abstraction layer for developing without using a pointer in Java. Features of Java Programming are Portable, Architectural Neutral, Object-Oriented, Robust, Secure, Dynamic and Extensible, etc.
+
+
+3)))What will be the output of the following Java code?
+
+    class increment {
+        public static void main(String args[]) 
+        {        
+             int g = 3;
+             System.out.print(++g * 8);
+        } 
+    }
+a) 32
+b) 33
+c) 24
+d) 25
+Answer: a
+Explanation: Operator ++ has more preference than *, thus g becomes 4 and when multiplied by 8 gives 32.
+
+4)))Which of the following is not an OOPS concept in Java?
+a) Polymorphism
+b) Inheritance
+c) Compilation
+d) Encapsulation
+Answer: c
+Explanation: There are 4 OOPS concepts in Java. Inheritance, Encapsulation, Polymorphism and Abstraction.
+
+5)))What is the extension of compiled java classes?
+a) .txt
+b) .js
+c) .class
+d) .java
+Answer: c
+Explanation: The compiled java files have .class extension.
+
+6)))Which of these keywords is used to define interfaces in Java?
+a) intf
+b) Intf
+c) interface
+d) Interface
+Answer: c
+Explanation: interface keyword is used to define interfaces in Java.
+
+7)))Which one of the following is not an access modifier?
+a) Protected
+b) Void
+c) Public
+d) Private
+Answer: b
+Explanation: Public, private, protected and default are the access modifiers.
+

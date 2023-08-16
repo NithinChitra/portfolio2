@@ -1,0 +1,126 @@
+*{
+    font-family: arial;
+    margin: 0;
+}
+.logo{
+    width: 150px;
+    height: 40px;
+    object-fit: cover;
+    /* border-radius: 10px; */
+    cursor: pointer;
+    margin-left: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right:600px;
+}
+.logo-section{
+    display:inline-block;
+    width:50%;
+}
+.header{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 9px;
+    /* position:sticky;
+    top:0px;
+    background-color: white; */
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+.name-logo{
+    height: 45px;
+    border:1px solid black;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 30px;
+}
+nav a{
+    text-decoration: none;
+    color:rgb(28, 122, 105);
+    /* flex:1; */
+    
+    border: 2px solid rgb(28, 122, 105);
+    padding:5px 10px;
+    transition: background-color 0.15s, color 0.15;
+    
+}
+nav a:hover{
+    color:white;
+    background-color: rgb(28, 122, 105);
+}
+nav a:active{
+    opacity: 0.8;
+
+}
+nav{
+    width:35%;
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.sub-header{
+    height: 130px;
+    width:100%;
+    /* background-image: url("images/project_cover_2.png"); */
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images1/project_cover_2.png");
+}
+.sub1{
+    color:white;
+    text-align: center;
+    padding-top:25px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.main{
+    height: 65vh;
+    margin:20px;
+    margin-top: 30px;
+    border:1px solid black;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
+}
+.left-part,.right-part{
+    display: inline-block;
+}
+.part1{
+    margin:0;
+    padding:15px;
+    display:grid;
+    grid-template-columns: 35% 65%;
+    margin:10px;
+    margin-top:30px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
+    transition:box-shadow 0.15s;
+    margin-top:10px;
+}
+.part1:hover{
+    box-shadow:0px 0px 8px rgba(0, 0, 0, 0.4);
+    border:none;
+}
+.header-1{
+    font-size: 25px;
+    font-weight: bold;
+    padding:5px;
+}
+.header-2{
+    padding-left:35px;
+    color:rgb(61, 53, 53);
+}
+.link{
+    padding-top:20px;
+}
+.link a{
+    text-decoration: none;
+    color:rgb(18, 171, 191);
+    font-size: 20px;
+}
+.link a:hover{
+    text-decoration: underline;
+}
+
+
+

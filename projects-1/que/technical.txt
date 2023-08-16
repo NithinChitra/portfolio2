@@ -1,0 +1,65 @@
+1)))A _________ set of rules that governs data communication.
+a) Protocols
+b) Standards
+c) RFCs
+d) Servers
+Answer: a
+Explanation: In communications, a protocol refers to a set of rules and regulations that allow a network of nodes to transmit and receive information. Each layer in the network model has a protocol set, for example, the transport layer has TCP and UDP protocols.
+
+2)))Bluetooth is an example of __________
+a) personal area network
+b) local area network
+c) virtual private network
+d) wide area network
+Answer: a
+Explanation: Bluetooth is a wireless technology used to create a wireless personal area network for data transfer up to a distance of 10 meters. It operates on 2.45 GHz frequency band for transmission.
+
+3))) Which of these best describes an array?
+a) A data structure that shows a hierarchical behavior
+b) Container of objects of similar types
+c) Arrays are immutable once initialised
+d) Array is not a data structure
+Answer: b
+Explanation: Array contains elements only of the same type.
+
+4)))In a stack, if a user tries to remove an element from an empty stack it is called _________
+a) Underflow
+b) Empty collection
+c) Overflow
+d) Garbage Collection
+Answer: a
+Explanation: Underflow occurs when the user performs a pop operation on an empty stack. Overflow occurs when the stack is full and the user performs a push operation. Garbage Collection is used to recover the memory occupied by objects that are no longer used.
+
+5)))How will you implement dynamic arrays in Java?
+a) Set
+b) Map
+c) HashMap
+d) List
+Answer: d
+Explanation: ArrayList is used to implement dynamic arrays in Java.
+
+6)))What is the traversal strategy used in the binary tree?
+a) depth-first traversal
+b) breadth-first traversal
+c) random traversal
+d) Priority traversal
+Answer: b
+Explanation: Breadth first traversal, also known as level order traversal is the traversal strategy used in a binary tree. It involves visiting all the nodes at a given level.
+
+7)))Which of the following language does the computer understand?
+a) Computer understands only C Language
+b) Computer understands only Assembly Language
+c) Computer understands only Binary Language
+d) Computer understands only BASIC
+Answer: c
+Explanation: The Computer understands only binary language which is written in the form of 0s & 1s. A computer can understand assembly language but an assembler is required which convert the assembly language to binary language. Similarly, for understanding high level languages, compilers/interpreters are required.
+
+
+
+
+
+
+
+
+
+

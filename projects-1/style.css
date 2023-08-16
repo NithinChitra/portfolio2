@@ -1,0 +1,132 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+p{
+    margin:0;
+}
+.head-1{
+    font-family:arial,sans-serif;
+    font-size:70px;
+    font-weight: bold;
+    margin-top:30px;
+    color:white;
+}
+
+.head-2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 5px;
+    margin-bottom: 30px;
+}
+
+.middle{
+    display:inline-block;
+    margin-left:500px;
+    margin-right: 500px;
+    text-align:center;
+    margin:auto;
+    width:100%;
+    margin-top:70px;
+    background-image:linear-gradient(to right,rgba(255,255,255,0.1),rgba(255,255,255,0.1)),url("images/background-10.jpg");
+    background-size:cover;
+    margin:0;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+
+
+.start{
+    background-color: transparent;
+    border:2px solid rgb(25, 208, 240);
+    color:rgb(25, 208, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding:4px 20px;
+    margin-top:15px;
+    transition:background-color 0.15s,color 0.15s;
+    border-radius: 30px;
+}
+
+.start:hover{
+    background-color: rgb(25, 208, 240);
+    color:white;
+}
+
+.other{
+    background-color: transparent;
+    border:2px solid rgb(25, 64, 240);
+    color:rgb(25, 64, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding:4px 16px;
+    margin-top:15px;
+    transition:background-color 0.15s,color 0.15s;
+    border-radius: 30px;
+}
+.other:hover{
+    background-color: rgb(25, 64, 240);
+    color:white;
+}
+
+.start:active{
+    opacity: 0.8;
+    border:none;
+}
+
+.aptitude,.technical,.java,.others{
+    display:inline-block;
+    width:200px;
+    height: 230px;
+    border:1px solid black;
+    background-color: rgba(255,255,255, 0.8);
+    border-radius: 10px;
+    margin:15px;
+    box-shadow: 10x 10px 10px rgba(0,0,0,0.15);
+    transition:transform 0.5s;
+
+}
+.aptitude:hover,.technical:hover,.java:hover,.others:hover{
+    transform:scale(1.1);
+}
+.aptitude-image,.technical-image,.java-image,.others-image{
+    width: 200px;
+    height: 160px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.soon{
+    display: inline-block;
+    padding:0;
+    margin:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

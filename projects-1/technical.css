@@ -1,0 +1,118 @@
+body{
+    font-family:arial, Helvetica, sans-serif;
+    background: linear-gradient(to right,rgba(224, 10, 10, 0.5),rgba(0, 8, 255, 0.4));
+}
+
+.question{
+    font-weight: 600;
+    font-size:25px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.answers{
+    font-size:20px;
+    margin-bottom: 2px;
+    
+}
+
+.answers label{
+    display:block;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+.slide{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  .active-slide{
+    opacity: 1;
+    z-index: 2;
+  }
+  .quiz-container{
+    position: relative;
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 47px;;
+  }
+  .section{
+    /* border:1px solid black; */
+    width:65%;
+    display:inline-block;
+    /* padding:10px; */
+    text-align: center;
+    margin-left:16%;
+    margin-right: 16%;
+    margin-top:80px;
+    padding-bottom: 20px;
+    padding-left:20px;
+    padding-right: 20px;
+    /* background-color:rgba(12, 231, 70, 0.6); */
+    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+    height: 350px;
+  }
+
+  .last{
+    text-align: center;
+    width:60%;
+    height: 150px;
+    margin:auto;
+    margin-top:30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding-bottom: 20px;
+  }
+
+  .heading{
+    font-size: 27px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(125, 44, 183);
+  }
+
+  .msg{
+    font-size:18px;
+    font-family: sans-serif;
+  }
+
+
+  .sub,.prev,.nxt{
+    font-size:18px;
+    padding:4px 12px;
+    background-color: white;
+    cursor: pointer;
+    transition: color 0.15s,background-color 0.15s;
+  }
+  .nxt,.prev{
+    border:2px solid rgb(33, 197, 226);
+    color:rgb(33, 197, 226);
+    margin-left:10px;
+  }
+  .nxt:hover,.prev:hover{
+    color:white;
+    background-color: rgb(33, 197, 226);
+  }
+  .sub{
+    border:2px solid rgb(15, 227, 54);
+    color:rgb(15, 227, 54);
+    margin-left:10px;
+  }
+  .sub:hover{
+    color:white;
+    background-color: rgb(15, 227, 54);
+  }
+  /* .prev{
+    border:2px solid rgb(130, 67, 211);
+    color:rgb(130, 67, 211);
+  }
+  .prev:hover{
+    color:white;
+    background-color: rgb(130, 67, 211);
+  } */
+
+  

@@ -1,0 +1,143 @@
+1)))
+A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+120 metres
+180 metres
+324 metres
+150 metres
+Answer: Option D
+Explanation:
+Speed =		60 x	5	m/sec	=		50	m/sec.
+18	3
+Length of the train = (Speed x Time).
+
+ Length of the train =		50	x 9	m = 150 m.
+2))
+A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
+12 days
+15 days
+16 days
+18 days
+
+Answer: Option B
+Explanation:
+A's 2 day's work =		1	x 2		=	1	.
+20	10
+(A + B + C)'s 1 day's work =		1	+	1	+	1		=	6	=	1	.
+20	30	60	60	10
+Work done in 3 days =		1	+	1		=	1	.
+10	10	5
+Now,	1	work is done in 3 days.
+5
+ Whole work will be done in (3 x 5) = 15 days.
+
+3)))
+The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:
+15
+16
+18
+25
+Answer: Option B
+Explanation:
+Let C.P. of each article be Re. 1 C.P. of x articles = Rs. x.
+
+S.P. of x articles = Rs. 20.
+
+Profit = Rs. (20 - x).
+
+		20 - x	x 100 = 25	
+x
+ 2000 - 100x = 25x
+
+125x = 2000
+
+ x = 16.
+
+4)))
+
+A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:
+Rs. 8400
+Rs. 11,900
+Rs. 13,600
+Rs. 14,700
+Answer: Option D
+Explanation:
+Let C = x.
+
+Then, B = x + 5000 and A = x + 5000 + 4000 = x + 9000.
+
+So, x + x + 5000 + x + 9000 = 50000
+
+ 3x = 36000
+
+ x = 12000
+
+A : B : C = 21000 : 17000 : 12000 = 21 : 17 : 12.
+
+ A's share = Rs.		35000 x	21		= Rs. 14,700.
+50
+
+
+5))
+Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:
+39, 30
+41, 32
+42, 33
+43, 34
+Answer: Option C
+Explanation:
+Let their marks be (x + 9) and x.
+
+Then, x + 9 =	56	(x + 9 + x)
+100
+ 25(x + 9) = 14(2x + 9)
+
+ 3x = 99
+
+ x = 33
+
+So, their marks are 42 and 33.
+
+
+6))A father said to his son, "I was as old as you are at the present at the time of your birth". If the father's age is 38 years now, the son's age five years back was:
+14 years
+19 years
+33 years
+38 years
+Answer: Option A
+Explanation:
+Let the son's present age be x years. Then, (38 - x) = x
+
+ 2x = 38.
+
+ x = 19.
+
+ Son's age 5 years back (19 - 5) = 14 years.
+
+7)))
+A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?
+Rs. 500
+Rs. 1500
+Rs. 2000
+None of these
+Answer: Option C
+Explanation:
+Let the shares of A, B, C and D be Rs. 5x, Rs. 2x, Rs. 4x and Rs. 3x respectively.
+
+Then, 4x - 3x = 1000
+
+ x = 1000.
+
+ B's share = Rs. 2x = Rs. (2 x 1000) = Rs. 2000.
+
+8)))
+Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P,Q and R respectively. What is the proportion of the solution R in the liquid in the tank after 3 minutes?
+5/11
+6/11
+7/11
+8/11
+Answer: B
+Explanation:
+Part filled by (A + B + C) in 3 minutes = 3(1/30+1/20+1/10)=11/20
+
+Part filled by C in 3 minutes =	3/10
+Ratio reqd = (3/10)*(20/11)=6/11
